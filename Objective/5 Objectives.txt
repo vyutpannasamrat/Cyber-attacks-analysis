@@ -1,0 +1,34 @@
+1. Analyze Attack Trends Over Time
+Objective:
+Identify how the frequency and type of cyberattacks have changed over the years.
+
+Why it matters:
+Helps in understanding whether cyber incidents are increasing and which types are becoming more common.
+
+2. Evaluate Attack Severity Patterns
+Objective:
+Assess which types of attacks tend to be more severe and how severity has trended over time.
+
+Why it matters:
+Supports prioritizing defense mechanisms for high-impact attacks.
+
+3. Examine the Effectiveness of Response Actions
+Objective:
+Analyze the distribution of response actions and evaluate their frequency relative to attack types and severities.
+
+Why it matters:
+Helps organizations determine if their most-used responses are appropriate for the attacks they face.
+
+4. Correlate Data Exfiltration with Attack Severity and Type
+Objective:
+Study whether attacks that result in data exfiltration are linked to specific attack types or severity levels.
+
+Why it matters:
+Pinpoints attack scenarios that are most dangerous in terms of data loss.
+
+5. Identify Peak Years and Times of Cybersecurity Incidents
+Objective:
+Detect which years or periods saw the highest number of cyber incidents and what types occurred most frequently during those times.
+
+Why it matters:
+Useful for building predictive models or planning increased monitoring during high-risk windows.
