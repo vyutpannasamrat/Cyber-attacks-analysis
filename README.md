@@ -1,1 +1,5 @@
 # Cyber-attacks-analysis
+This project conducts a comprehensive analysis of cybersecurity trends, leveraging structured data to extract meaningful insights into attack patterns, severity levels, and annual trends. By examining key variables such as attack type, severity, timestamps, and frequency, the analysis aims to identify significant patterns and relationships within the dataset.
+The study is designed to assist stakeholders—including cybersecurity professionals, organizations, and policymakers—in making informed decisions by understanding the evolution of cyberattacks over time, the distribution of attack severity across types, and the frequency of attacks in different years. Through this analytical approach, the project provides a deeper understanding of how various factors interact within the dynamic landscape of cybersecurity threats.
+By visualizing trends in attack frequency, severity, and type, the project aims to offer valuable insights that can help in strengthening security measures, anticipating future cyber threats, and prioritizing areas that need more focused defense strategies.
+
